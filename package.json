@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "express": "^4.17.3",
+    "react-bootstrap": "^2.2.1"
+  },
+  "name": "proshop",
+  "version": "1.0.0",
+  "description": "MERN shopping cart app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server"
+  },
+  "author": "Arpit",
+  "license": "MIT"
+}
